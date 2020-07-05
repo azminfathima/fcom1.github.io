@@ -1919,9 +1919,7 @@ em {
   font-style: normal;
 }
 img {
-  /*vertical-align: middle;
-  max-width: 100%;
-  height: auto;*/
+ 
   width: 40%;
 }
 .img-responsive,
