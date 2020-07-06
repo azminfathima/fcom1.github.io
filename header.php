@@ -12,7 +12,7 @@
 
           <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
             <li class="active">
-              <a href="./">Home</a>
+              <a href="index.php">Home</a>
             </li>
             <li>
               <a href="index-1.php">About</a>
