@@ -39,62 +39,7 @@
   <!--========================================================
                             HEADER
   =========================================================-->
-  <header>
-    <div id="stuck_container" class="stuck_container">
-      <div class="container">
-        <div class="navbar-header">
-          <h1 class="">
-           <a href=""><img src="images/Back.PNG" alt="logo" style=" width:100px;
-  height: 100px;">  </a>
-          </h1>
-        </div>
-
-        <nav class="navbar navbar-default navbar-static-top ">
-
-          <ul class="navbar-nav sf-menu navbar-right" data-type="navbar">
-            <li class="active">
-              <a href="./">Home</a>
-            </li>
-            <li>
-              <a href="index-1.html">About</a>
-            </li>
-            <li class="dropdown">
-              <a href="index-2.html">Services</a>
-              <ul class="dropdown-menu">
-                <li>
-                  <a href="#">Design </a>
-                </li>
-                <li>
-                  <a href="#">Programming</a>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <a href="#">Latest</a>
-                    </li>
-                    <li>
-                      <a href="#">Archive</a>
-                    </li>
-                  </ul>
-                </li>
-                <li>
-                  <a href="#">Copywriting</a>
-                </li>
-                <li>
-                  <a href="#">Optimization</a>
-                </li>
-              </ul>
-            </li>
-            <li>
-              <a href="index-3.html">Projects</a>
-            </li>
-
-            <li>
-              <a href="index-4.html">Contacts</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </div>
-  </header>
+<?php include("header.php");?>
 
 
 
@@ -117,7 +62,8 @@
             <h2>Striving to excellence in everything we do!</h2>
 
             <p
-              class="h5">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco1.</p>
+              class="h5">We take every challenge as an opportunity to exceed expectations when striving for business excellence.
+We rise to meet every challenge and continue to push our self and our business to excel.</p>
             <a href="#" class="btn btn-info">Join Our Team</a>
           </div>
         </div>
@@ -127,7 +73,8 @@
             <h2>Save your time and money with us!</h2>
 
             <p
-              class="h5">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+              class="h5">We take every challenge as an opportunity to exceed expectations when striving for business excellence.
+We rise to meet every challenge and continue to push our self and our business to excel.</p>
             <a href="#" class="btn btn-info">Join Our Team</a>
           </div>
         </div>
@@ -137,7 +84,8 @@
             <h2>Great expertise based on experience!</h2>
 
             <p
-              class="h5">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+              class="h5">We take every challenge as an opportunity to exceed expectations when striving for business excellence.
+We rise to meet every challenge and continue to push our self and our business to excel.</p>
             <a href="#" class="btn btn-info">Join Our Team</a>
           </div>
         </div>
@@ -553,7 +501,7 @@
 
 
 
-                  <p>712 Delestre Ave, Coquitlam, BC, Canada.</p></address>
+                  <p>Au Milan Development Inc,712 Delestre Ave, Coquitlam, BC, Canada.</p></address>
               </div>
 
             </div>
@@ -683,123 +631,7 @@
   <!--========================================================
                           FOOTER
 =========================================================-->
-  <footer>
-    <section class="bg-white">
-      <div class="widget-cnt bg-default">
-        <div class="container">
-          <div class="row">
-            <div class="col-md-4 col-sm-4 col-xs-12" data-equal-group="2">
-              <h5>Facebook</h5>
-
-              <div class="widget-wr">
-                <div class="fb-page" data-href="https://www.facebook.com/templatemonster"
-                     data-height="241"
-                     data-small-header="true" data-adapt-container-width="true" data-hide-cover="false"
-                     data-show-facepile="true" data-show-posts="true">
-                  <div class="fb-xfbml-parse-ignore">
-                    <blockquote cite="https://www.facebook.com/templatemonster">
-                      <a href="https://www.facebook.com/templatemonster">TemplateMonster</a>
-                    </blockquote>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12" data-equal-group="2">
-              <h5>Twitter</h5>
-
-              <div class="widget-wr">
-                <div class="twitter">
-                  <a class="twitter-timeline" href="https://twitter.com/templatemonster"
-                     data-widget-id="591631855146954752">Tweets by @templatemonster</a>
-                </div>
-
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-xs-12" data-equal-group="2">
-              <h5>Instagram</h5>
-
-              <div class="widget-wr">
-                <div class="instafeed" data-instafeed-user="25025320" data-instafeed-get="tagged" data-instafeed-tagname="tm_business_ui_kit" data-instafeed-sort="most-liked">
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                  <div data-instafeed-item="">
-                    <div class="thumbnail-instafeed">
-                      <a class="instagram-link" href="#" data-images-standard_resolution-url="href">
-                        <img class="instagram-image" src="images/_blank.png" alt="" data-images-standard_resolution-url="src">
-                      </a>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <section class="footer-wr">
-      <div class="container">
-        <ul class="inline-list">
-          <li>
-            <a href='#' class="fa fa-facebook"></a>
-          </li>
-          <li>
-            <a href='#' class="fa fa-twitter"></a>
-          </li>
-          <li>
-            <a href='#' class="fa fa-pinterest"></a>
-          </li>
-          <li>
-            <a href='#' class="fa fa-instagram"></a>
-          </li>
-        </ul>
-
-        <div class="copyright">
-          <a href="#">Paladium</a> &#169; <span id="copyright-year"></span>. <a href="index-5.html">Privacy Policy</a>
-          <!-- {%FOOTER_LINK} -->
-        </div>
-      </div>
-    </section>
-  </footer>
+<?php include("footer.php");?>
 </div>
 
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

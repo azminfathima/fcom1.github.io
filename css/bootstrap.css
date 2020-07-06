@@ -5150,7 +5150,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     float: left;
   }
   .navbar-nav > li > a {
-    padding: 2em 0px 1em 0px;
+    padding: 1.5em 0px 1em 0px;
     display: block;
   }
   .navbar-nav > li + li {
